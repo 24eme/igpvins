@@ -1,10 +1,9 @@
 <?php
 
 $igps = array(
-    "ardeche" => array(title=>"Syndicat des vins ardeche", portail=>"https://ardeche.igp.vins.24eme.fr/",  logo=> "logo_igpardeche.png"),
-    "arles" => array(title=>"Syndicat des vins d'Arles", portail=>"https://arles.igp.vins.24eme.fr/",  logo=> "logo_igparles.png"),
+    "ardeche" => array(title=>"Syndicat des vins d'Ardeche", portail=>"https://ardeche.igp.vins.24eme.fr/",  logo=> "logo_igpardeche.png"),
     "aude" => array('title'=>'Syndicat des IGP de l′Aude', portail=>"https://www.innov-agro.igpvins.fr/", logo => "logo_igpaude.png"),
-    "13" => array(title=>"Syndicat IGP des Bouches du Rhone", portail=>"https://13.igp.vins.24eme.fr/",  logo=> "logo_igp13.png"),
+    "13" => array(title=>"Syndicat IGP des Bouches du Rhone", portail=> array('Antenne d\'Aix' => "https://13.igp.vins.24eme.fr/", 'Antenne d\'Arles' => "https://arles.igp.vins.24eme.fr/"),  logo=> "logo_igp13.png"),
     "drome" => array(title=>"Syndicat des vins de la Drome", portail=>"https://drome.igp.vins.24eme.fr/",  logo=> "logo_igpdrome.png"),
     "gard" => array(title=>"Fédération Gardoise des Vins à IGP", portail=>"https://www.innov-agro.igpvins.fr/",  logo=> "logo_igpgard.png"),
     "gascogne" => array(title=>"Syndicat des Cotes de Gascogne", portail=>"https://gascogne.igp.vins.24eme.fr/",  logo=> "logo_igpgascogne.png"),
@@ -107,10 +106,20 @@ $igps = array(
                   <div style="height: 225px;" class="d-flex">
                       <img class="mx-auto align-self-center" src="images/logos/<?php echo $params['logo']; ?>" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=IGP Ardeche" alt="Logo <?php echo $params['title']; ?>"  style="max-height: 225px;">
                   </div>
-                  <h5 class="py-1 card-title text-center"><?php echo $params['title']; ?></h5>
-                  <div class="d-flex justify-content-between align-items-center">
-                    <a href="<?php echo $params['portail']; ?>" class="btn btn-block btn-primary">Accéder au portail</a>
+                  <h5 class="py-1 px-5 card-title text-center"><?php echo $params['title']; ?></h5>
+                  <?php if (is_array($params['portail'])): ?>
+                  <div class="row">
+                  <?php foreach ($params['portail'] as $nom => $url ): ?>
+                  <div class="col-sm-6">
+                  <a href="<?php echo $url; ?>" class="btn btn-block btn-primary"><?php echo $nom; ?></a>
                   </div>
+                  <?php endforeach; ?>
+                  </div>
+                  <?php else: ?>
+                    <div class="d-flex">
+                    <a href="<?php echo $params['portail']; ?>" class="btn btn-block btn-primary">Accéder au portail</a>
+                    </div>
+                  <?php endif; ?>
                 </div>
                 <div class="card-footer text-center">
                     <a class="text-muted" href="plus.php?igp=<?php echo $igp; ?>">Plus d'info</a>
