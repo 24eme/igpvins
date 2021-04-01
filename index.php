@@ -1,22 +1,4 @@
-<?php
-
-$igps = array(
-    "allobrogies" => array(title=>"Syndicat des Vins des Alpes du Nord", portail=>"https://www.innov-agro.igpvins.fr/",  logo=> "logo_igpallobrogies.png"),
-    "ardeche" => array(title=>"Syndicat des vins d'Ardeche", portail=>"https://ardeche.igp.vins.24eme.fr/",  logo=> "logo_igpardeche.png"),
-    "aude" => array('title'=>'Syndicat des IGP de l′Aude', portail=>"https://www.innov-agro.igpvins.fr/", logo => "logo_igpaude.png"),
-    "13" => array(title=>"Syndicat IGP des Bouches du Rhone", portail=> array('Antenne d\'Aix' => "https://13.igp.vins.24eme.fr/", 'Antenne d\'Arles' => "https://arles.igp.vins.24eme.fr/"),  logo=> "logo_igp13.png"),
-    "charentais" => array(title=>"Syndicat des Vins de Pays Charentais",  portail=>"https://www.innov-agro.igpvins.fr/",  logo=> "logo_igpcharentais.png"),
-    "drome" => array(title=>"Syndicat des vins de la Drome", portail=>"https://drome.igp.vins.24eme.fr/",  logo=> "logo_igpdrome.png"),
-    "gard" => array(title=>"Fédération Gardoise des Vins à IGP", portail=>"https://www.innov-agro.igpvins.fr/",  logo=> "logo_igpgard.png"),
-    "gascogne" => array(title=>"Syndicat des Cotes de Gascogne", portail=>"https://gascogne.igp.vins.24eme.fr/",  logo=> "logo_igpgascogne.png"),
-    "herault" => array('title' => 'Fédération<br/>IGP 34', 'portail' => "https://www.innov-agro.igpvins.fr/", logo => "logo_igpherault.png"),
-    "loire" => array(title=>"Syndicat des vins IGP Val de Loire", portail=>"https://loire.igp.vins.24eme.fr/",  logo=> "logo_igploire.png"),
-    "var" => array(title=>"Syndicat des vins du Var", portail=>"https://var.igp.vins.24eme.fr/",  logo=> "logo_igpvar.png"),
-    "vaucluse" => array(title=>"Syndicat des vins du Vaucluse", portail=>"https://vaucluse.igp.vins.24eme.fr/",  logo=> "logo_igpvaucluse.png"),
-    "med" => array(title=>"Fédération Inter-Med", portail=>"https://med.igp.vins.24eme.fr/", logo=> "logo_igpmed.png" )
-);
-
-?><!doctype html>
+<?php include('igp.php'); ?><!doctype html>
 <html lang="fr">
   <head>
     <meta charset="utf-8">
@@ -101,14 +83,14 @@ $igps = array(
       <div class="album py-5 bg-light">
       <div class="container">
       <div class="row">
-<?php foreach($igps as $igp => $params): ?>
+<?php foreach($igp_contacts as $igp => $params): ?>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <div class="card-body">
                   <div style="height: 225px;" class="d-flex">
                       <img class="mx-auto align-self-center" src="images/logos/<?php echo $params['logo']; ?>" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=<?php echo $params['title']; ?>" alt="Logo <?php echo $params['title']; ?>"  style="max-height: 225px;">
                   </div>
-                  <h5 class="py-1 px-5 card-title text-center"><?php echo $params['title']; ?></h5>
+                  <h5 class="py-1 px-3 card-title text-center"><?php echo $params['title']; ?></h5>
                   <?php if (is_array($params['portail'])): ?>
                   <div class="row">
                   <?php foreach ($params['portail'] as $nom => $url ): ?>
