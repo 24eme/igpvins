@@ -120,7 +120,7 @@
     <footer class="text-muted">
       <div class="container">
         <p class="float-right">
-          <a href="https://vinigp.fr/">Confédération des IGP</a>
+          <a href="https://vinigp.fr/">Confédération des vins IGP de France</a>
         </p>
         <p>Portail de télédéclaration des syndicats viticoles des IGP.</p>
       </div>
