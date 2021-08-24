@@ -167,7 +167,7 @@ $igp_documents = array(
     array("Autres documents", "2021-02-22", "Calendrier commissions organoleptiques campagne 2020-2021 IGP ARDECHE", "1831_CALENDRIER Commissions Camp 2020 2021 v2.pdf"),
     array("Autres documents", "2020-09-10", "Guide Recolte 2020", "1787_Guide Récolte 2020.pdf"),
     array("Autres documents", "2020-09-08", "Calendrier commissions organoleptiques IGP COMTES RHODANIENS Camp 2020-2021", "1777_CALENDRIER Commissions Camp 2020"),
-    array("Autres documents", "2020-08-14", "Memo Campagne 2020-2021 obligations declaratives", "1733_MEMO CAMPAGNE 2020 les obligations déclaratives.pdf"),
+    array("Autres documents", "2021-08-11", "Memo Campagne 2021-2022 obligations declaratives", "MEMO CAMPAGNE 2021 les obligations declaratives.pdf"),
     array("Autres documents", "2020-08-12", "COMTES RHODANIENS Memo de campagne 2020-2021", "1730_COMTES RHODANIENS MEMO CAMPAGNE 2020 2021.pdf"),
     array("Autres documents", "2020-08-12", "COMTES RHODANIENS Note obligations declaratives R2020", "1729_COMTES RHODANIENS Note obligations déclaratives R2020 spécifique"),
     array("Autres documents", "2019-08-22", "Note etiquetage juillet 2019", "1572_Note VINIGP étiquetage màj Juillet 2019.pdf"),
