@@ -312,7 +312,7 @@ $igp_documents = array(
     array("Autres documents", "2021-09-13", "GUIDE LABO R2021", "GUIDE LABO R2021.pdf"),
     array("Autres documents", "2021-09-07", "Instructions examen organoleptique",  "instructions commission organoleptique.pdf"),
     array("Autres documents", "2021-09-12", "CALENDRIER DES COMMISSIONS 2021/2022", "calendrier commissions 2021-2022.pdf"),
-    array("Autres documents", "2021-09-13", "GUIDE NEGOCIANT NON VINIFICATEUR IGP VAUCLUSE - R2021", "GUIDE NEGOCIANT NON VINIFICATEUR IGP VAUCLUSE - R2021.pdf      "),
+    array("Autres documents", "2021-09-13", "GUIDE NEGOCIANT NON VINIFICATEUR IGP VAUCLUSE - R2021", "GUIDE NEGOCIANT NON VINIFICATEUR IGP VAUCLUSE - R2021.pdf"),
     array("Autres documents", "2021-09-14", "GUIDE RECOLTANT VINIFICATEUR R2021", "GUIDE RECOLTANT VINIFICATEUR R2021.pdf"),
     array("Autres documents", "2021-09-12", "NORMES ANALYTIQUES R2021", "Normes analytiques 2021.pdf"),
     array("Autres documents", "2021-09-10", "Résumé des Obligations Déclaratives IGP", "resume des obligations declaratives IGP.pdf"),
