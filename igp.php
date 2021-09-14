@@ -318,7 +318,7 @@ $igp_documents = array(
     array("Autres documents", "2021-09-07", "Resume des Obligations Declaratives IGP", "resume des obligations declaratives IGP.pdf"),
     array("Autres documents", "2020-08-25", "BULLETIN DE NON ADHÉSION a l′ODG des Vins IGP Vaucluse et Mediterranee", "Bulletin de Non Adhésion ODG.pdf"),
     array("Autres documents", "2019-08-28", "CODE PRODUITS declaration de recolte", "CODES PRODUITS IGP DECLARATION DE RECOLTE.pdf"),
-    array("Autres documents", "2019-08-28", "LISTE DES DÉFAUTS ET NOTATION examen organoleptique", "1600_LISTE DES DEFAUTS 84.pdf"),
+    array("Autres documents", "2019-08-28", "LISTE DES DÉFAUTS ET NOTATION examen organoleptique", "LISTE DES DEFAUTS COMMISSION IGP.pdf"),
     array("Autres documents", "2019-08-28", "Mandat de Prelevement SEPA", "mandat de PL SEPA.pdf"),
 ),
 "intermed" => array(
