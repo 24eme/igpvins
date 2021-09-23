@@ -132,6 +132,7 @@ $igp_documents = array(
       array("Autres documents", "2019-09-03", "NORMES ANALYTIQUES R2019", "1616_6 normes analytiques 0405.pdf"),
   ),
  "ardeche" => array(
+    array("Textes officiels", "2021-09-22", "Arrêté autorisant l'enrichissement départ.ARDECHE R2021", "ENRICHISSEMENT ARDECHE.pdf"),
     array("Textes officiels", "2021-04-24", "Arrete d'homologation Comtes Rhodaniens du 24-04-2021", "20210424_Arrete_dhomologation_CDC_Comtes_Rhodaniens.pdf"),
     array("Textes officiels", "2021-04-14", "Cahier des Charges IGP COMTES RHODANIENS", "20210414_JO_CDC_ComtesRhodaniens.pdf"),
     array("Textes officiels", "2020-12-11", "Arrete guant le Cahier des charges IGP ARDECHE", "1828_joe_20201120_0281_0083.pdf"),
