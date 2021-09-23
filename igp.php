@@ -163,6 +163,7 @@ $igp_documents = array(
     array("Formulaires declaratifs", "2017-05-29", "Declaration de changement de denomination", "1231_déclaration changement de dénomination ODG 07-1.doc"),
     array("Formulaires declaratifs", "2016-09-29", "Declaration de revendication ODG 07", "DECLARATION DE REVENDICATION.doc"),
     array("Formulaires declaratifs", "2016-09-29", "Declaration de transaction - conditionnement ODG 07", "1104_697_déclaration transaction conditionnement ODG 07.doc"),
+    array("Autres documents", "2021-09-20", "Note Primeurs R2021", "Note IGP primeurs 2021.pdf"),
     array("Autres documents", "2021-08-11", "Calendrier commissions organoleptiques campagne 2021-2022 IGP ARDECHE", "CALENDRIER Commissions Camp 2021 2022.pdf"),
     array("Autres documents", "2021-08-11", "Memo Campagne 2021-2022 obligations declaratives", "MEMO CAMPAGNE 2021 les obligations declaratives.pdf"),
     array("Autres documents", "2021-08-11", "COMTES RHODANIENS Memo de campagne 2021-2022", "20210811_Memo_Comptes_Rhodaniens_2021-2022.pdf"),
