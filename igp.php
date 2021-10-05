@@ -10,7 +10,7 @@ $igp_contacts = array(
         "title" => "Syndicat des Vins des Alpes du Sud",
         "adresse" => "2 rue Osco Manosco<br/><br/>04860 PIERREVERT",
         "contact" => "04 90 12 45 20<br/>direction@vins-des-alpes-du-sud.fr<br/><br/><b>Contact:</b>Mladen GRUMIC<br/><b>Président:</b>Patrice JEROME<br/>",
-        "portail"=>"https://www.innov-agro.igpvins.fr/",  "logo"=> "logo_igpalpesdusud.png"
+        "portail"=>"https://www.innov-agro.igpvins.fr/",  "logo"=> "logo_igpalpes.png"
     ),
     "ardeche" =>  array (
         "title" => "Syndicat des Vins IGP d′Ardeche",
