@@ -80,7 +80,7 @@ $igp_contacts = array(
     ),
     "med" => array (
         "title" => "Fédération<br/>INTER-MED",
-        "adresse" => "198 chemin des Entrages<br/><br/>13300 SALON-DE-PROVENCE",
+        "adresse" => "<br/>198 chemin des Entrages<br/>13300 SALON-DE-PROVENCE",
         "contact" => "06 22 50 73 29<br/>contact@igpmed.fr<br/><a href='http://www.igpmed.fr'>Site web</a><br/><b>Contact:</b> Axelle FICHTNER<br/><b>Président:</b> Thierry ICARD<br/>",
         "portail"=>"https://med.igp.vins.24eme.fr/", "logo"=> "logo_igpmed.png"
     ),
@@ -326,7 +326,7 @@ $igp_documents = array(
     array("Textes Officiels", "2017-08-23", "CERTIPAQ - Delai Non Conformite", "1251_CERTIPAQ - Gestion des non conformités.pdf"),
     array("Textes Officiels", "2017-10-26", "Programme Certification Certipaq", "1377_Programme Certification Certipaq.pdf"),
     array("Textes Officiels", "2018-12-05", "Note Enrichissement & edulcoration", "1549_IGP Méditerranée pratiques oeno.pdf"),
-    array("Textes Officiels", "2017-04-12", "Cahier des Charges IGP Mediterranée", "AGRT2115398A CDCMediterranee"),
+    array("Textes Officiels", "2017-04-12", "Cahier des Charges IGP Mediterranée", "AGRT2115398A CDCMediterranee.pdf"),
     array("Textes Officiels", "2019-09-09", "Liste des défauts", "Liste des défauts IGP Méditerranée.pdf"),
     array("Textes Officiels", "2021-10-21", "Note IGP Primeurs 2021", "Note IGP primeurs 2021.pdf"),
     array("Formulaires declaratifs", "2019-09-09", "Identification", "Identification operateur.pdf"),
