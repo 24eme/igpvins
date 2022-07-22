@@ -74,7 +74,7 @@ $igp_contacts = array(
     ),
     "vaucluse" => array (
         "title" => "Syndicat des vins de table et de pays de Vaucluse",
-        "adresse" => "8, Route de Carpentras<br/><br/>84190 BEAUMES-DE-VENISE",
+        "adresse" => "35 Chemin de Saint Genies<br/><br/>84210 VENASQUE",
         "contact" => "04 90 12 45 20<br/>contact@vins-igp-vaucluse.fr<br/><a href='http://www.vins-igp-vaucluse.fr'>Site web</a><br/><b>Contact:</b> Mladen GRUMIC<br/><b>Président:</b> Joel REYNAUD<br/>",
         "portail"=>"https://vaucluse.igp.vins.24eme.fr/",  "logo"=> "logo_igpvaucluse.png"
     ),
