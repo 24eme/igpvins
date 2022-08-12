@@ -5,6 +5,11 @@ include('igp.php');
 $igp = $igp_contacts[$_GET['igp']];
 $documents = $igp_documents[$_GET['igp']];
 
+if (isset($igp['url_plusdinfo'])) {
+    header('Location: '.$igp['url_plusdinfo']."\n");
+    exit;
+}
+
 ?><!doctype html>
 <html lang="fr">
   <head>

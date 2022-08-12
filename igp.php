@@ -28,7 +28,8 @@ $igp_contacts = array(
         "title" => "Syndicat des vins IGP des Bouches-du-Rhone",
         "adresse" => "Maison des Agriculteurs<br/>22 Avenue Henri-Pontier<br/>13626 AIX EN PROVENCE Cedex 1",
         "contact" => "06.23.90.24.41<br/>igp13@orange.fr<br/><br/><b>Contact:</b> Marie DE MONTE<br/><b>Président:</b> Jean-Claude PELLEGRIN<br/>",
-        "portail"=> array('Antenne d\'Aix' => "https://13.igp.vins.24eme.fr/", 'Antenne d\'Arles' => "https://arles.igp.vins.24eme.fr/"),  "logo" => "logo_igp13.png"
+        "portail"=> array('Antenne d\'Aix' => "https://13.igp.vins.24eme.fr/", 'Antenne d\'Arles' => "https://arles.igp.vins.24eme.fr/"),  "logo" => "logo_igp13.png",
+        "url_plusdinfo" => "https://igp13vins.com/espacepro.html",
     ),
     "charentais" => array (
         "title" => "Syndicat des Vins de Pays Charentais",
