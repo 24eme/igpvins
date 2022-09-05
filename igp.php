@@ -133,7 +133,7 @@ $igp_documents = array(
       array("Autres documents", "2019-09-03", "NORMES ANALYTIQUES R2019", "1616_6 normes analytiques 0405.pdf"),
   ),
  "ardeche" => array(
-    array("Textes officiels", "2022-09-02", "Arrêté autorisant l'augmentation du titre alcoométrique volumique naturel pour l'élaboration de vins IGP et de Vins sans IG pour le département Ardèche pour la récolte 2022", "2septembre2022_recueil-84-2022-183-recueil-des-actes-administratifs.pdf"),
+    array("Textes officiels", "2022-09-02", "Arrêté autorisant l'augmentation du titre alcoométrique volumique naturel - Ardèche - Récolte 2022", "2septembre2022_recueil-84-2022-183-recueil-des-actes-administratifs.pdf"),
     array("Textes officiels", "2022-08-30", "Arrêté autorisant l'enrichissement - Gard - Récolte 2022", "20220830_ap_enrich_igp_ardeche_30_vusgar.pdf"),
     array("Textes officiels", "2022-08-30", "Notification relative à l'enrichissement - Gard - Récolte 2022", "22220830_notif_enrich_ardech30_vusgar.pdf"),
     array("Textes officiels", "2022-08-30", "Arrêté autorisant l'enrichissement départ.ARDECHE R2021", "ENRICHISSEMENT ARDECHE.pdf"),
