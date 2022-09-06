@@ -1,0 +1,584 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Liste des pdf</title>
+</head>
+<style>
+
+body {
+
+<!--background-image:url(images/list_pdf.png);-->
+background-repeat:no-repeat;
+width:100%;
+margin: 0 0 0 0;
+background-color:#6f274f;
+}
+
+
+
+</style> 
+<body onBlur='self.focus()'>
+<div style="width:570px;" >
+<div style="color:#ffffff;"><h4><font style=" font-weight:bold;  font-family:Arial, Helvetica, sans-serif; ">Liste des documents à télécharger</font></h4></div><div style="background-color:#efe7ff; color:#000"><h4><font style=" font-weight:bold;  font-family:Arial, Helvetica, sans-serif; color:#6f274f;">Textes officiels</font></h4><table>		<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">16-03-2022</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC IGP COTEAUX DE BEZIERS</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1912_CDC_Beziers_BO MAA_220127.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">16-03-2022</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC IGP COTES DE THAU</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1910_CDC_CdT_211021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">16-03-2022</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC IGP SAINT GUILHEM LE DESERT</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1911_CDC_SaintGuilhem_BO MAA_220127.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Arrete 2021 liste bis departements concernes par le gel</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1883_Arrêté 2021 Liste bis départements concernés par gel 2021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Arrete 2021 liste des departements concernes par le gel</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1882_Arrêté 2021 Liste départements concernés par gel 2021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">01-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Decret enrichissement 2021</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1887_20210901_ap_enrich_vins_lr_11_30_34_48_66.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-08-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Arrete 2021 derogation temporaire quantite de cuivre</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1879_Arrêté 2021 Dérogation temporaire quantité de cuivre.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-08-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Arrete du 4 aout 2017 achats de vendanges</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1880_arrete 4 aout 2017 achats de vendanges.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">22-07-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Arrete prefectoral achat de vendanges 34</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1877_20210722_Arreté_préfectoral_34_achat_vendanges.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">22-10-2018</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC CAHIER DES CHARGES IGP TERRES DU MIDI</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1531_Cahier des Charges IGP Terres du Midi.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">29-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">PLAN DE CONTROLE VERSION 4 OCTOBRE 2016</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1385_BV_PC IG012_Hérault Version 4_06-10-16.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC homologue Cote de thongue 2013</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1145_CDC homologue Cotes de Thongue 2013.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC homologue Coteaux denserune</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1140_CDC homologue Coteaux dEnserune.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC homologue haute vallee de lorb</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1143_CDC homologue Haute Vallee de lOrb.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC homologue pays dherault 2015</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1144_CDC homologue Pays dHerault 2015.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">CDC homologue vicomte daumelas</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1147_CDC homologue Vicomte dAumelas.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">RESUME CDC Coteaux denserune</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1153_RESUME CDC CTX ENSERUNE JO NOV 2011.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">RESUME CDC Cotes de thongue</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1151_RESUME CDC COTES DE THONGUE  JO SEPT 2013.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">RESUME CDC Haute vallee de lorb</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1154_RESUME CDC HVO JO NOV 2011.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">RESUME CDC Pays dherault JO AOUT 2015</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1215_RESUME CDC PAYS HLT JO AOUT 2015.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">RESUME CDC Vicomte daumelas</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1157_RESUME CDC VICOMTE AUMELAS JO NOV 2011.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">16-10-2015</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Autorisations de plantation de vigne</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/857_A4-Fiches autorisations de plantation de vigne.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">16-10-2015</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">JO Modif decret Pays d&prime;Herault ajout cepage Cabestrel</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/860_JO Modif decret Pays d'Hérault ajout cépage Cabestrel.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">16-09-2015</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Arrete Pays d&prime;Herault 6 aout 2015</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/788_Arr�t� Pays d\'H�rault 06 ao�t 2015.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+		</table></div><div style="background-color:#efe7ff; color:#000"><h4><font style=" font-weight:bold;  font-family:Arial, Helvetica, sans-serif; color:#6f274f;">Formulaires d&eacute;claratifs</font></h4><table>		<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Declaration de changement de denomination</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1897_Declaration dintention de changement de denomination .pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Declaration de conditionnement</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1898_Declaration transaction conditionnement IGP .pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Declaration de revendication 2021</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1894_Déclaration de revendication 2021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Declaration declassement vin sans IGP</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1895_Déclaration de déclassement en vin sans IG.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Declaration Identification Habilitation INAO</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1896_Declaration Identification Habilitation INAO.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">18-10-2016</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">MEMENTO CHANGEMENTS DE DENOMINATION ET DECLASSEMENT EN IGP</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1183_Memento changements de dénomination et déclassement en IGP.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+		</table></div><div style="background-color:#efe7ff; color:#000"><h4><font style=" font-weight:bold;  font-family:Arial, Helvetica, sans-serif; color:#6f274f;">Autres documents</font></h4><table>		<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">01-10-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">GUIDE IGP RECOLTE 2021</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1899_GUIDE IGP RECOLTE 2021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Attestation DR Primeur 2021</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1888_Attestation DR Primeur R2021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Calendrier degustation IGP de octobre 2021 a mars 2022</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1893_CALENDRIER DES COMMISSIONS DE CONTROLE ORGANOLEPTIQUE.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Grille de cotisation Recolte 2021</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1890_grille de cotisation Recolte 2021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Information fichier 2021</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1891_INFORMATIONS FICHIER 2021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Note primeur 2021</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1889_Note primeur  IGP R2021.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">notice contrats de raisins CIVL</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1886_notice contrats de raisins mouts vins de base pour tranquilles et effervescents au 9 sept 2021." style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">28-09-2021</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">Tableau pour modification DR SV11 SV12</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1892_MODIFS DR SV11SV12.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">04-11-2020</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">PROCEDURE COMMISSION DE DEGUSTATION COVID19</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1818_PROCEDURE COMMISSION DE DEGUSTATION COVID19.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">04-11-2020</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">PROCEDURE PRELEVEMENT COVID19</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1817_PROCEDURE PRELEVEMENT COVID19.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">10-10-2019</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">LIMITES NORMES ANALYTIQUES ET PRATIQUES OENOLOGIQUES</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1684_Limites normes analytiques et pratiques oenologiques.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#efe7ec; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#efe7ec; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#efe7ec; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">10-10-2019</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">PROCEDURE DE DECLARATION EN LIGNE R 2019</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1683_Procedure de déclaration en ligne 2019 V2.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+				<!--<div style="background-color:#FFF; height:30px;width:554px; padding-top:10px; padding-left:16px;">-->
+		<!--<div style="background-color:#FFF; width:554px; padding-top:10px; padding-left:16px;">-->
+		<tr style="background-color:#FFF; width:570px; padding-top:10px; padding-left:16px;">
+		<td style="width:70px;">
+			<font style="color:#833E6B; font-size:12px; font-weight:bold;   font-family:Arial, Helvetica, sans-serif; ">22-10-2018</font>&nbsp;&nbsp;&nbsp;
+		</td>
+		<td style="width:500px;">
+			<font style="color:#833E6B; font-size:13px; font-weight:bold;    font-family:Arial, Helvetica, sans-serif; ">TELEDECLARATION TELEPAIEMENT</font>&nbsp;&nbsp;&nbsp;
+			<font style=" font-size:10px; font-weight:bold;  font-family:Arial, Helvetica, sans-serif; "><a href="pdf/1530_Procedure de déclaration en ligne 2018 V2.pdf" style="text-decoration:none; color:#2D4795;">T&eacute;l&eacute;charger</a></font>
+		</td>
+		</tr>
+
+		<!--</div>-->
+		</table></div></div>
+</body>
+</html>
