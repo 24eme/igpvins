@@ -173,6 +173,7 @@ $igp_documents = array(
     array("Formulaires declaratifs", "2022-08-16", "Declaration de changement de denomination (doc)", "déclaration changement de dénomination ODG 07-2.doc"),
     array("Formulaires declaratifs", "2022-08-16", "Declaration de revendication ODG 07", "déclaration de revendication ODG 07 v2.doc"),
     array("Formulaires declaratifs", "2022-08-16", "Declaration de transaction - conditionnement ODG 07", "1104_697_déclaration transaction conditionnement ODG 07.doc"),
+    array("Autres documents", "2022-09-08", "Note sur les normes analytiques", "Note normes analytiques.pdf"),
     array("Autres documents", "2022-08-16", "Calendrier commissions organoleptiques 2022-2023", "CALENDRIER Commissions Camp 2022 2023.pdf"),
     array("Autres documents", "2022-08-16", "Guide Recolte 2022", "Guide Récolte 2022.pdf "),
     array("Autres documents", "2021-09-20", "Note Primeurs R2021", "Note IGP primeurs 2021.pdf"),
