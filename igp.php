@@ -344,7 +344,7 @@ $igp_documents = array(
 //    array("Autres documents", "2021-10-11", "Calendrier de dégustation 2021-2022", "Calendrier Dégustation Méditerranée 2021-2022.pdf"),
     array("Autres documents", "2022-07-29", "Memo effervescents 2022-2023", "20220729-Memo_effervescents_20222023.pdf"),
     array("Autres documents", "2022-07-29", "ODG Partenaires", "20220729-ODG_Partenaires_IGP_Mediterranee.pdf"),
-    array("Autres documents", "2022-07-29", "Liste des défauts", "20220729-Liste_des_defauts_MED.pdf"),
+    array("Autres documents", "2022-09-08", "Liste des défauts", "20220908-Liste_des_defauts_MED.pdf"),
 ),
 "terredumidi" => array (
     array("Textes officiels", "2018-12-04", "CAHIER DES CHARGES", "1535_Cahier des Charges - IGP Terres du Midi.pdf"),
