@@ -64,7 +64,7 @@ $igp_contacts = array(
     "loire" => array (
         "title" => "Syndicat des Vins IGP du Val de Loire",
         "adresse" => "6 Rue du Maine<br/><br/>49100 ANGERS",
-        "contact" => "02 41 87 25 81<br/>vdpvaldeloire@orange.fr<br/><a href='http://www.vinsdepays-valdeloire.com'>Site web</a><br/><b>Contact:</b> Raphaël Fattier<br/><b>Présidente:</b> Catherine Motheron",
+        "contact" => "02 41 87 25 81<br/>contact@igpvaldeloire.fr<br/><a href='http://www.vinsdepays-valdeloire.com'>Site web</a><br/><b>Contact:</b> Raphaël Fattier<br/><b>Présidente:</b> Catherine Motheron",
         "portail"=>"https://loire.igp.vins.24eme.fr/",  "logo"=> "logo_igploire.png"
     ),
     "var" => array (
