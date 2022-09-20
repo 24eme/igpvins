@@ -255,7 +255,7 @@ $igp_documents = array(
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : CALENDRIER COMMISSIONS ORGANOLEPTIQUE ZONE SUD", "CALENDRIER DES DEGUSTATIONS ZONE SUD 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : GUIDE DE RECOLTE 2022", "GUIDE RECOLTE 2022.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : NOTE INFO Campagne 2022", "NOTE D INFORMATION ENVOI DOCS.pdf"),
-    array("Autres documents", "2020-08-25", "DECALRATION DE MOUVEMENT DU PARCELLAIRE 2020", "1744_DECLARATION DE MOUVEMENT CVI.pdf"),
+    array("Autres documents", "2020-08-25", "DECLARATION DE MOUVEMENT DU PARCELLAIRE 2020", "1744_DECLARATION DE MOUVEMENT CVI.pdf"),
     array("Autres documents", "2022-08-22", "IGP MEDITERRANEE GUIDE Production 2022-2023", "IGP MED-Mémo Production Méditerranée 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "IGP MEDITERRANEE GUIDE NEGOCIANTS 2022-2023", "IGP MED-Guide Négociants 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "IGP MEDITERRANEE MEMEO EFFERVESCENTS 2022-2023", "IGP MED-Memo effervescents 2022-2023.pdf"),
