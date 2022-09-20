@@ -234,6 +234,8 @@ $igp_documents = array(
     array("Autres documents", "2020-09-03", "Memo production IGP Mediterranee", "1764_Memo Production IGP Mediterranee 2020-2021.pdf"),
 ),
     "drome" => array(
+    array("Textes officiels", "2022-09-20", "Arrêté Enrichissement IGP Drômoises", "Arrêté Enrichissement IGP Drômoises.pdf"),
+    array("Textes officiels", "2022-09-20", "Arrêté Enrichissement IGP Ardèche", "Arrêté Enrichissement IGP Ardèche.pdf"),
     array("Textes officiels", "2022-08-22", "Décisions CA IGP MED RECOLTE 2022", "IGP MED-Communiqué IGP Méditerranée récolte 2022.pdf"),
     array("Textes officiels", "2020-12-15", "Cahier des Charges IGP Coteaux des Baronnies", "1829_AGRT2029994A CDC Coteaux des Baronnies.pdf"),
     array("Textes officiels", "2020-12-15", "Cahier des Charges IGP Drôme", "1830_AGRT2029995A CDC Drôme.pdf"),
@@ -251,6 +253,7 @@ $igp_documents = array(
     array("Formulaires declaratifs", "2022-08-22", "DECLARATION D′IDENTIFICATION", "1.DECLARATION D'IDENTIFICATION.pdf"),
     array("Formulaires declaratifs", "2016-07-27", "DECLARATION DE REVENDICATION", "932_2.DECLARATION DE REVENDICATION.pdf"),
     array("Formulaires declaratifs", "2016-07-27", "DECLARATION DE TRANSACTION CONDITIONNEMENT", "935_3. DECLARATION DE TRANSACTION CONDITIONNEMENT.pdf"),
+    array("Autres documents", "2022-09-20", "Note primeurs 2022", "Note IGP primeurs 2022.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : CALENDRIER COMMISSIONS ORGANOLEPTIQUE ZONE NORD", "CALENDRIER DES DEGUSTATIONS ZONE NORD 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : CALENDRIER COMMISSIONS ORGANOLEPTIQUE ZONE SUD", "CALENDRIER DES DEGUSTATIONS ZONE SUD 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : GUIDE DE RECOLTE 2022", "GUIDE RECOLTE 2022.pdf"),
