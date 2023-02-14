@@ -14,8 +14,8 @@ $igp_contacts = array(
     ),
     "ardeche" =>  array (
         "title" => "Syndicat des Vins IGP d′Ardeche",
-        "adresse" => "Route de Ruoms<br/><br/>07150 VALLON PONT D'ARC",
-        "contact" => "04 75 93 90 13<br/>svdp-fcca@wanadoo.fr<br/><a href='http://www.lesvinsdardeche.com'>Site web</a><br/><b>Contact:</b> Catherine JURY - Anne MOISAN<br/><b>Président:</b> Pierre CHAMPETIER<br/>",
+        "adresse" => "Maison des Vignerons<br />218 Route de Ruoms<br/><br/>07150 VALLON PONT D'ARC",
+        "contact" => "04 75 93 90 13<br/>svdp-fcca@wanadoo.fr<br/><a href='http://www.lesvinsdardeche.com'>Site web</a><br/><b>Contact:</b> Catherine JURY - Anne MOISAN<br/><b>Président :</b> Marc DEJOUX<br/>",
         "portail"=>"https://ardeche.igp.vins.24eme.fr/",  "logo"=> "logo_igpardeche.png"
     ),
     "aude" => array (
@@ -234,6 +234,8 @@ $igp_documents = array(
     array("Autres documents", "2020-09-03", "Memo production IGP Mediterranee", "1764_Memo Production IGP Mediterranee 2020-2021.pdf"),
 ),
     "drome" => array(
+    array("Textes officiels", "2022-09-20", "Arrêté Enrichissement IGP Drômoises", "Arrêté Enrichissement IGP Drômoises.pdf"),
+    array("Textes officiels", "2022-09-20", "Arrêté Enrichissement IGP Ardèche", "Arrêté Enrichissement IGP Ardèche.pdf"),
     array("Textes officiels", "2022-08-22", "Décisions CA IGP MED RECOLTE 2022", "IGP MED-Communiqué IGP Méditerranée récolte 2022.pdf"),
     array("Textes officiels", "2020-12-15", "Cahier des Charges IGP Coteaux des Baronnies", "1829_AGRT2029994A CDC Coteaux des Baronnies.pdf"),
     array("Textes officiels", "2020-12-15", "Cahier des Charges IGP Drôme", "1830_AGRT2029995A CDC Drôme.pdf"),
@@ -251,11 +253,12 @@ $igp_documents = array(
     array("Formulaires declaratifs", "2022-08-22", "DECLARATION D′IDENTIFICATION", "1.DECLARATION D'IDENTIFICATION.pdf"),
     array("Formulaires declaratifs", "2016-07-27", "DECLARATION DE REVENDICATION", "932_2.DECLARATION DE REVENDICATION.pdf"),
     array("Formulaires declaratifs", "2016-07-27", "DECLARATION DE TRANSACTION CONDITIONNEMENT", "935_3. DECLARATION DE TRANSACTION CONDITIONNEMENT.pdf"),
+    array("Autres documents", "2022-09-20", "Note primeurs 2022", "Note IGP primeurs 2022.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : CALENDRIER COMMISSIONS ORGANOLEPTIQUE ZONE NORD", "CALENDRIER DES DEGUSTATIONS ZONE NORD 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : CALENDRIER COMMISSIONS ORGANOLEPTIQUE ZONE SUD", "CALENDRIER DES DEGUSTATIONS ZONE SUD 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : GUIDE DE RECOLTE 2022", "GUIDE RECOLTE 2022.pdf"),
     array("Autres documents", "2022-08-22", "CAMPAGNE 2022-2023 : NOTE INFO Campagne 2022", "NOTE D INFORMATION ENVOI DOCS.pdf"),
-    array("Autres documents", "2020-08-25", "DECALRATION DE MOUVEMENT DU PARCELLAIRE 2020", "1744_DECLARATION DE MOUVEMENT CVI.pdf"),
+    array("Autres documents", "2020-08-25", "DECLARATION DE MOUVEMENT DU PARCELLAIRE 2020", "1744_DECLARATION DE MOUVEMENT CVI.pdf"),
     array("Autres documents", "2022-08-22", "IGP MEDITERRANEE GUIDE Production 2022-2023", "IGP MED-Mémo Production Méditerranée 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "IGP MEDITERRANEE GUIDE NEGOCIANTS 2022-2023", "IGP MED-Guide Négociants 2022-2023.pdf"),
     array("Autres documents", "2022-08-22", "IGP MEDITERRANEE MEMEO EFFERVESCENTS 2022-2023", "IGP MED-Memo effervescents 2022-2023.pdf"),
