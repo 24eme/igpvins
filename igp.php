@@ -37,6 +37,13 @@ $igp_contacts = array(
         "contact" => "05 17 22 00 00<br/>info@vindepayscharentais.fr<br/><a href='http://www.vindepayscharentais.fr'>Site web</a><br/><b>Contact:</b> Julie FOUASSIER<br/><b>Président:</b> Thierry JULLION<br/>",
         "portail"=>"https://www.innov-agro.igpvins.fr/",  "logo"=> "logo_igpcharentais.png"
     ),
+    "comtetolosan" => array (
+        "title" => "Syndicat des Vins IGP Comté Tolosan - FRIGP Sud-Ouest",
+        "adresse" => "FRIGP<br/> BP 82256 – Auzeville<br/>31322 Castanet Tolosan",
+        "contact" => "05.61.75.42.82<br/>s.arenes@coopoccitanie.fr<br/><b>Contact:</b> Sandrine ARENES DABAN<br/><b>Président :</b> Christophe Bou<br/>",
+        "portail"=>"https://sudouest.igp.vins.24eme.fr/",  "logo"=> "logo_igpsudouest.png"
+
+    ),
     "drome" => array (
         "title" => "Federation Dromoise des IGP viticoles",
         "adresse" => "Bureau Viti 26 - Immeuble CER FRANCE Drome Vaucluse<br/>ZA des Grands Crus - 1575, chemin des Levees<br/>26600 TAIN l'HERMITAGE",
@@ -66,6 +73,12 @@ $igp_contacts = array(
         "adresse" => "6 Rue du Maine<br/><br/>49100 ANGERS",
         "contact" => "02 41 87 25 81<br/>contact@igpvaldeloire.fr<br/><a href='http://www.vinsdepays-valdeloire.com'>Site web</a><br/><b>Contact:</b> Raphaël Fattier<br/><b>Présidente:</b> Catherine Motheron",
         "portail"=>"https://loire.igp.vins.24eme.fr/",  "logo"=> "logo_igploire.png"
+    ),
+    "tarn" => array (
+        "title" => "Syndicat des vins IGP Côtes du Tarn ",
+        "adresse" => "Maison des Vins – Abbaye Saint Michel<br/><br/>81600 GAILLAC",
+        "contact" => "05 63 57 15 40<br/>cotesdutarn@vins-gaillac.com<br/><a href='http://www.vins-gaillac.com'>Site web</a><br/><b>Contact:</b> Caroline Granado<br/><b>Président:</b> Cédric Carcenac",
+        "portail"=>"https://teledeclaration.vins-gaillac.com/",  "logo"=> "logo_igptarn.png"
     ),
     "var" => array (
         "title" => "Syndicat des Vignerons<br/>du Var",
