@@ -9,7 +9,7 @@ $igp_contacts = array(
     "alpesdusud" => array(
         "title" => "Syndicat des Vins des Alpes du Sud",
         "adresse" => "2 rue Osco Manosco<br/><br/>04860 PIERREVERT",
-        "contact" => "04 90 12 45 20<br/>direction@vins-des-alpes-du-sud.fr<br/><br/><b>Contact : </b>Mladen GRUMIC<br/><b>Président AOP :</b> Gilles DELSUC<br/><b>Président IGP :</b>  Timothée ESPITALIER<br/>",
+        "contact" => "04 90 12 45 20<br/>direction@vins-des-alpes-du-sud.fr<br/><br/><b>Contact : </b>Mladen GRUMIC<br/><b>Président AOP :</b> Gilles DELSUC<br/><b>Président IGP :</b>  Frédéric PORT<br/>",
         "portail"=>"https://alpes.igp.vins.24eme.fr/",  "logo"=> "logo_igpalpes.png"
     ),
     "ardeche" =>  array (
