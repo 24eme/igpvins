@@ -1,6 +1,6 @@
 <?php
 
-include('igp.php');
+include('config.php');
 
 $igp = $igp_contacts[$_GET['igp']];
 $documents = $igp_documents[$_GET['igp']];
