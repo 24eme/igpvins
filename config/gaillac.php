@@ -16,3 +16,5 @@ $odg_theme = 'gaillac';
 $odg_name = 'Vins de Gaillac';
 $odg_tagline = 'Retrouver depuis cette pages les adresses de tous les portails et documents des Syndicats viticoles des Vins de Gaillac.';
 $odg_logo = '/images/gaillac.png';
+
+$odg_card_size = 6;

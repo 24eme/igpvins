@@ -24,7 +24,7 @@ include('themes/'.$odg_theme.'/header.php');
       <div class="container">
       <div class="row">
 <?php foreach($odg_contacts as $odg => $params): ?>
-            <div class="col-md-6">
+            <div class="col-md-<?php echo $odg_card_size; ?> mb-4">
               <div class="card mb-6 box-shadow">
                 <div class="card-body">
                   <div style="height: 225px;" class="d-flex">

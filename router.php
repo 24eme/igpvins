@@ -1,5 +1,7 @@
 <?php
 
+$odg_card_size = 4;
+
 if(strpos($_SERVER['HTTP_HOST'], 'gaillac') !== false ) {
     include('config/gaillac.php');
 }elseif (strpos($_SERVER['HTTP_HOST'], 'igp') !== false ) {
