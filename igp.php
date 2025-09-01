@@ -83,7 +83,7 @@
       <div class="album py-5 bg-light">
       <div class="container">
       <div class="row">
-<?php foreach($igp_contacts as $igp => $params): ?>
+<?php foreach($odg_contacts as $igp => $params): ?>
             <div class="col-md-4">
               <div class="card mb-4 box-shadow">
                 <div class="card-body">
