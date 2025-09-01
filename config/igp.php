@@ -2,6 +2,7 @@
 if (isset($_GET['igp'])) {
     $_GET['odg'] = $_GET['igp'];
 }
+
 $igp_contacts = array(
     "allobrogies" => array (
         "title" => "Syndicat des Vins de Pays Allobrogies",
@@ -111,4 +112,10 @@ $igp_contacts = array(
 
 if (!isset($odg_contacts)) {
     $odg_contacts = $igp_contacts;
+
+    $odg_name = 'Vins IGP';
+    $odg_tagline = 'Retrouver depuis cette pages les adresses de tous les portails et documents des Syndicats viticoles des IGP.';
+    $odg_logo = '/images/igp.png';
+
+    $odg_theme = 'igp';
 }
