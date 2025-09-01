@@ -37,7 +37,7 @@ $igp_contacts = array(
         "contact" => "05 17 22 00 00<br/>info@vindepayscharentais.fr<br/><a href='http://www.vindepayscharentais.fr'>Site web</a><br/><b>Contact:</b> Julie FOUASSIER<br/><b>Président:</b> Thierry JULLION<br/>",
         "portail"=>"https://www.innov-agro.igpvins.fr/",  "logo"=> "logo_igpcharentais.png"
     ),
-    "comtetolosan" => array (
+    "sudouest" => array (
         "title" => "Fédération Régionale des vins IGP du Sud-Ouest<br/><small>(Ariège, Aveyron, Comté Tolosan, Lavilledieu, Thezac Perricard)</small>",
         "adresse" => "BP 82256 – Auzeville<br/>31322 Castanet Tolosan",
         "contact" => "05.61.75.42.82<br/>s.arenes@coopoccitanie.fr<br/><b>Contact:</b> Sandrine ARENES DABAN<br/><b>Président :</b> Christophe Bou<br/>",
