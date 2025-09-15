@@ -35,7 +35,7 @@ include('themes/'.$odg_theme.'/header.php'); ?>
                 <h2 id="<?php echo str_replace(" ", "_", strtolower($actualtitle)); ?>"><?php echo $actualtitle; ?></h2>
                 <ul>
               <?php endif; ?>
-              <li><?php echo preg_replace('/(\d+)-(\d+)-(\d+)/', '$3/$2/$1', $doc[1]); ?> : <a href="documents/<?php echo $_GET['odg'].'/'.$doc[3]?>"><?php echo $doc[2]; ?></a></li>
+              <li><?php echo preg_replace('/(\d+)-(\d+)-(\d+)/', '$3/$2/$1', $doc[1]); ?> : <a href="documents/<?php echo $_GET['odg'].'/'.$doc[3]?>"><?php echo str_replace('_', ' ', $doc[2]); ?></a></li>
             <?php endforeach; ?>
             </div>
          </div>
