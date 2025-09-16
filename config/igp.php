@@ -19,7 +19,7 @@ $igp_contacts = array(
     "ardeche" =>  array (
         "title" => "Syndicat des Vins IGP d′Ardeche",
         "adresse" => "Maison des Vignerons<br />218 Route de Ruoms<br/><br/>07150 VALLON PONT D'ARC",
-        "contact" => "04 75 93 90 13<br/>svdp-fcca@wanadoo.fr<br/><a href='http://www.lesvinsdardeche.com'>Site web</a><br/><b>Contact:</b> Catherine JURY - Anne MOISAN<br/><b>Président :</b> Marc DEJOUX<br/>",
+        "contact" => "04 75 93 90 13<br/>svdp-fcca@wanadoo.fr<br/><a href='http://www.lesvinsdardeche.com'>Site web</a><br/><b>Contact:</b> Catherine JURY - Anne MOISAN<br/><b>Président :</b> Jérôme VOLLE<br/>",
         "portail"=>"https://ardeche.igp.vins.24eme.fr/",  "logo"=> "logo_igpardeche.png"
     ),
     "aude" => array (
