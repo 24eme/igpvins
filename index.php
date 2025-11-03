@@ -46,7 +46,11 @@ include('themes/'.$odg_theme.'/header.php');
                   <?php endif; ?>
                 </div>
                 <div class="card-footer text-center">
+<?php if (isset($params['plus']) && $params['plus']): ?>
+                    <a class="text-muted" href="<?php echo $params['plus']; ?>">Plus d'info</a>
+<?php else: ?>
                     <a class="text-muted" href="plus.php?odg=<?php echo $odg; ?>">Plus d'info</a>
+<?php endif; ?>
                 </div>
               </div>
             </div>
