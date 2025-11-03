@@ -4,12 +4,6 @@ if (isset($_GET['igp'])) {
 }
 
 $igp_contacts = array(
-    "allobrogies" => array (
-        "title" => "Syndicat des Vins de Pays Allobrogies",
-        "adresse" => "40 rue du Terraillet<br/><br/>73190 SAINT BALDOPH",
-        "contact" => "04 79 33 82 42<br/>emmanuel.michaud@fdsea73.fr<br/><br/><b>Contact:</b>Emmanuel MICHAUD<br/><b>Président:</b>Jean-Paul FINAS<br/>",
-        "portail" => "https://www.innov-agro.igpvins.fr/", "logo" => "logo_igpallobrogies.png"
-    ),
     "alpesdusud" => array(
         "title" => "Syndicat des Vins des Alpes du Sud",
         "adresse" => "2 rue Osco Manosco<br/><br/>04860 PIERREVERT",
