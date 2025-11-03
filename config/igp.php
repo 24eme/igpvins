@@ -39,7 +39,7 @@ $igp_contacts = array(
         "title" => "Fédération Régionale des vins IGP du Sud-Ouest<br/><small>(Ariège, Aveyron, Comté Tolosan, Lavilledieu, Thezac Perricard)</small>",
         "adresse" => "BP 82256 – Auzeville<br/>31322 Castanet Tolosan",
         "contact" => "05.61.75.42.82<br/>s.arenes@coopoccitanie.fr<br/><b>Contact:</b> Sandrine ARENES DABAN<br/><b>Président :</b> Christophe Bou<br/>",
-        "portail"=>"https://sudouest.igp.vins.24eme.fr/",  "logo"=> "logo_igpsudouest.png"
+        "portail"=>"https://sudouest.igp.vins.24eme.fr/",  "logo"=> "logo_igpsudouest.png", "logo_height" => 178
 
     ),
     "drome" => array (

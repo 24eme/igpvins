@@ -27,7 +27,7 @@ include('themes/'.$odg_theme.'/header.php');
             <div class="col-md-<?php echo $odg_card_size; ?> mb-4">
               <div class="card mb-6 box-shadow">
                 <div class="card-body">
-                  <div style="height: 225px;" class="d-flex">
+                  <div style="height: <?php echo (isset($params['logo_height']) && $params['logo_height']) ? $params['logo_height'] : '225' ?>px;" class="d-flex">
                       <img class="mx-auto align-self-center" src="images/logos/<?php echo $params['logo']; ?>" data-src="holder.js/100px225?theme=thumb&bg=55595c&fg=eceeef&text=<?php echo $params['title']; ?>" alt="Logo <?php echo $params['title']; ?>"  style="max-height: 225px;">
                   </div>
                   <h5 class="py-1 px-3 card-title text-center"><?php echo $params['title']; ?></h5>

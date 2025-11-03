@@ -29,6 +29,10 @@
 #navbarHeader .text-muted {
     color: #ec95cc !important;
 }
+
+.card-body h5 {
+  min-height: 3.5rem;
+}
    -->
    </style>
   <body>
