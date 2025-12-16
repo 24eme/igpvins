@@ -4,12 +4,6 @@ if (isset($_GET['igp'])) {
 }
 
 $igp_contacts = array(
-    "allobrogies" => array (
-        "title" => "Syndicat des Vins de Pays Allobrogies",
-        "adresse" => "40 rue du Terraillet<br/><br/>73190 SAINT BALDOPH",
-        "contact" => "04 79 33 82 42<br/>emmanuel.michaud@fdsea73.fr<br/><br/><b>Contact:</b>Emmanuel MICHAUD<br/><b>Président:</b>Jean-Paul FINAS<br/>",
-        "portail" => "https://www.innov-agro.igpvins.fr/", "logo" => "logo_igpallobrogies.png"
-    ),
     "alpesdusud" => array(
         "title" => "Syndicat des Vins des Alpes du Sud",
         "adresse" => "2 rue Osco Manosco<br/><br/>04860 PIERREVERT",
@@ -45,7 +39,7 @@ $igp_contacts = array(
         "title" => "Fédération Régionale des vins IGP du Sud-Ouest<br/><small>(Ariège, Aveyron, Comté Tolosan, Lavilledieu, Thezac Perricard)</small>",
         "adresse" => "BP 82256 – Auzeville<br/>31322 Castanet Tolosan",
         "contact" => "05.61.75.42.82<br/>s.arenes@coopoccitanie.fr<br/><b>Contact:</b> Sandrine ARENES DABAN<br/><b>Président :</b> Christophe Bou<br/>",
-        "portail"=>"https://sudouest.igp.vins.24eme.fr/",  "logo"=> "logo_igpsudouest.png"
+        "portail"=>"https://sudouest.igp.vins.24eme.fr/",  "logo"=> "logo_igpsudouest.png", "logo_height" => 178
 
     ),
     "drome" => array (
@@ -58,7 +52,19 @@ $igp_contacts = array(
         "title" => "Federation Gardoise des Vins à IGP",
         "adresse" => "Le Solaris<br/>545, chemin du Chai<br/>30900 NIMES",
         "contact" => "04 66 06 39 22<br/>mireille.compan@odg30.fr<br/><br/><b>Contact:</b> Mireille COMPAN<br/><b>Président:</b> Denis VERDIER<br/>",
-        "portail"=>"https://www.innov-agro.igpvins.fr/",  "logo"=> "logo_igpgard.png"
+        "portail" => "https://www.innov-siqo.com/auth/login?redirect-path=%2F",  "logo" => "logo_igpgard.png", "plus" => "https://regardsurlevin.fr/espace-pro/"
+    ),
+    "pontdugard" => array (
+        "title" => "IGP Coteaux du Pont du Gard",
+        "adresse" => "Le Solaris<br/>545, chemin du Chai<br/>30900 NIMES",
+        "contact" => "04 66 06 39 22<br/>mireille.compan@odg30.fr<br/><br/><b>Contact:</b> Mireille COMPAN<br/><b>Président:</b> Denis VERDIER<br/>",
+        "portail" => "https://www.innov-siqo.com/auth/login?redirect-path=%2F",  "logo" => "logo_igppontdugard.png", "plus" => "https://regardsurlevin.fr/espace-pro/"
+    ),
+    "cevennes" => array (
+        "title" => "IGP Cévennes",
+        "adresse" => "Le Solaris<br/>545, chemin du Chai<br/>30900 NIMES",
+        "contact" => "04 66 06 39 22<br/>mireille.compan@odg30.fr<br/><br/><b>Contact:</b> Mireille COMPAN<br/><b>Président:</b> Denis VERDIER<br/>",
+        "portail" => "https://www.innov-siqo.com/auth/login?redirect-path=%2F",  "logo" => "logo_igpcevennes.png", "plus" => "https://regardsurlevin.fr/espace-pro/"
     ),
     "gascogne" => array (
         "title" => "Syndicat des vins Cotes de Gascogne et Gers",
