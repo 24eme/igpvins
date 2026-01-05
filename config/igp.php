@@ -48,24 +48,6 @@ $igp_contacts = array(
         "contact" => "04 75 07 80 06 - 06 12 02 41 03<br/><br/>viti26@orange.fr<br/><br/><b>Contact:</b> Juliette VIOLETTE<br/><b>Président:</b> Adelin MARCHAUD<br/>",
         "portail"=>"https://drome.igp.vins.24eme.fr/",  "logo"=> "logo_igpdrome.png"
     ),
-    "gard" => array (
-        "title" => "Federation Gardoise des Vins à IGP",
-        "adresse" => "Le Solaris<br/>545, chemin du Chai<br/>30900 NIMES",
-        "contact" => "04 66 06 39 22<br/>mireille.compan@odg30.fr<br/><br/><b>Contact:</b> Mireille COMPAN<br/><b>Président:</b> Denis VERDIER<br/>",
-        "portail" => "https://www.innov-siqo.com/auth/login?redirect-path=%2F",  "logo" => "logo_igpgard.png", "plus" => "https://regardsurlevin.fr/espace-pro/"
-    ),
-    "pontdugard" => array (
-        "title" => "IGP Coteaux du Pont du Gard",
-        "adresse" => "Le Solaris<br/>545, chemin du Chai<br/>30900 NIMES",
-        "contact" => "04 66 06 39 22<br/>mireille.compan@odg30.fr<br/><br/><b>Contact:</b> Mireille COMPAN<br/><b>Président:</b> Denis VERDIER<br/>",
-        "portail" => "https://www.innov-siqo.com/auth/login?redirect-path=%2F",  "logo" => "logo_igppontdugard.png", "plus" => "https://regardsurlevin.fr/espace-pro/"
-    ),
-    "cevennes" => array (
-        "title" => "IGP Cévennes",
-        "adresse" => "Le Solaris<br/>545, chemin du Chai<br/>30900 NIMES",
-        "contact" => "04 66 06 39 22<br/>mireille.compan@odg30.fr<br/><br/><b>Contact:</b> Mireille COMPAN<br/><b>Président:</b> Denis VERDIER<br/>",
-        "portail" => "https://www.innov-siqo.com/auth/login?redirect-path=%2F",  "logo" => "logo_igpcevennes.png", "plus" => "https://regardsurlevin.fr/espace-pro/"
-    ),
     "gascogne" => array (
         "title" => "Syndicat des vins Cotes de Gascogne et Gers",
         "adresse" => "Route de Cazaubon 1286, av de l′Armagnac<br/>BP 2<br/>32800 EAUZE",
