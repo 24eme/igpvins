@@ -104,6 +104,8 @@ $igp_contacts = array(
     )
 );
 
+$alternative_domains = array("declaration.igp-atlantique.fr" => "atlantique.igp.vins.24eme.fr");
+
 if (!isset($odg_contacts)) {
     $odg_contacts = $igp_contacts;
 
