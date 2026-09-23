@@ -5,7 +5,7 @@ $epoch = $_GET['epoch'];
 $md5 = $_GET['md5'];
 $instance = substr($user, 0, 3);
 $site = null;
-switch (variable) {
+switch ($instance) {
     case 'ALP':
 	$site = 'alpes';
 	break;
