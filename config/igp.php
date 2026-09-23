@@ -20,7 +20,8 @@ $igp_contacts = array(
         "title" => "Vins IGP Atlantique",
         "adresse" => "Cité mondiale<br />6 parvis des Chartrons<br/><br/>33000 BORDEAUX",
         "contact" => "05 56 00 81 00<br/>odg@igp-atlantique.fr<br/><a href='http://www.igp-atlantique.fr/'>Site web</a><br/><b>Contact:</b> Elisabeth GALINEAU<br/><b>Président:</b> Jean-François BRUERE <br/>",
-        "portail"=>"https://atlantique.igp.vins.24eme.fr/",  "logo"=> "logo_igpatlantique.png"
+        "portail"=>"https://atlantique.igp.vins.24eme.fr/",  "logo"=> "logo_igpatlantique.png",
+        "url_plusdinfo" => "https://www.igp-atlantique.fr/espace-pro/",
     ),
     "aude" => array (
         "title" => "Union Syndicale des IGP de l′Aude",
