@@ -16,6 +16,13 @@ $igp_contacts = array(
         "contact" => "04 75 93 90 13<br/>svdp-fcca@wanadoo.fr<br/><a href='http://www.lesvinsdardeche.com'>Site web</a><br/><b>Contact:</b> Catherine JURY - Anne MOISAN<br/><b>Président :</b> Jérôme VOLLE<br/>",
         "portail"=>"https://ardeche.igp.vins.24eme.fr/",  "logo"=> "logo_igpardeche.png"
     ),
+    "atlantique" => array(
+        "title" => "Vins IGP Atlantique",
+        "adresse" => "Cité mondiale<br />6 parvis des Chartrons<br/><br/>33000 BORDEAUX",
+        "contact" => "05 56 00 81 00<br/>odg@igp-atlantique.fr<br/><a href='http://www.igp-atlantique.fr/'>Site web</a><br/><b>Contact:</b> Elisabeth GALINEAU<br/><b>Président:</b> Jean-François BRUERE <br/>",
+        "portail"=>"https://atlantique.igp.vins.24eme.fr/",  "logo"=> "logo_igpatlantique.png",
+        "url_plusdinfo" => "https://www.igp-atlantique.fr/espace-pro/",
+    ),
     "aude" => array (
         "title" => "Union Syndicale des IGP de l′Aude",
         "adresse" => "Maison des Vignerons - ZAC Bonne Source<br/>22 rue Ernest Cognacq - BP 40527<br/>11105 NARBONNECedex",
@@ -97,6 +104,8 @@ $igp_contacts = array(
         "portail" => "#", "logo" => "logo_igpterredumidi.png"
     )
 );
+
+$alternative_domains = array("declaration.igp-atlantique.fr" => "atlantique.igp.vins.24eme.fr");
 
 if (!isset($odg_contacts)) {
     $odg_contacts = $igp_contacts;
